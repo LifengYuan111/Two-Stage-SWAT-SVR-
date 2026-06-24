@@ -175,6 +175,6 @@ The scripts were developed and tested using R (version 4.x) on Windows operating
 
 If you use this repository, please cite the associated manuscript:
 
-Lifeng Yuan, ...
+placeholder
 
 ---
